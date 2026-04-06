@@ -49,6 +49,8 @@ Production MoE models and their characteristics.
 | [Arctic](models/arctic.md) | Snowflake | 480B | 17B | 128×top-2 + dense | Yes |
 | [Jamba](models/jamba.md) | AI21 Labs | 52B / 398B | 12B / 94B | 16×top-2 + Mamba | Yes |
 | [OLMoE](models/olmoe.md) | AI2 | 6.9B | 1.3B | 64×top-8 | Fully |
+| [Llama 4](models/llama4.md) | Meta | 109B / 400B | 17B | 16-128×top-1 + shared | Yes |
+| [Qwen MoE](models/qwen-moe.md) | Alibaba | 14.3B / 235B | 2.7B / 22B | Various | Yes |
 
 ## People
 

@@ -19,7 +19,7 @@ Core technical topics: [routing mechanisms](wiki/concepts/routing.md), [load bal
 Key research papers from [the 1991 original](wiki/papers/adaptive-mixtures-1991.md) through [DeepSeekMoE (2024)](wiki/papers/deepseek-moe-2024.md), including [Sparsely-Gated MoE](wiki/papers/sparsely-gated-moe-2017.md), [Switch Transformer](wiki/papers/switch-transformer-2021.md), [GShard](wiki/papers/gshard-2020.md), [GLaM](wiki/papers/glam-2022.md), [ST-MoE](wiki/papers/st-moe-2022.md), [Expert Choice](wiki/papers/expert-choice-2022.md), [V-MoE](wiki/papers/vision-moe-2021.md), and [Soft MoE](wiki/papers/soft-moe-2023.md).
 
 ### Models (7 pages)
-Production MoE models: [Mixtral](wiki/models/mixtral.md), [DeepSeek](wiki/models/deepseek.md), [Grok](wiki/models/grok.md), [DBRX](wiki/models/dbrx.md), [Arctic](wiki/models/arctic.md), [Jamba](wiki/models/jamba.md), and [OLMoE](wiki/models/olmoe.md).
+Production MoE models: [Mixtral](wiki/models/mixtral.md), [DeepSeek](wiki/models/deepseek.md), [Grok](wiki/models/grok.md), [DBRX](wiki/models/dbrx.md), [Arctic](wiki/models/arctic.md), [Jamba](wiki/models/jamba.md), [OLMoE](wiki/models/olmoe.md), [Llama 4](wiki/models/llama4.md), and [Qwen MoE](wiki/models/qwen-moe.md).
 
 ### People (1 page)
 [Key researchers](wiki/people/key-researchers.md) who shaped MoE: Hinton, Jordan, Shazeer, Fedus, Zoph, and more.
@@ -47,7 +47,7 @@ This wiki is designed for three operations:
 
 ## Stats
 
-- **28 pages** covering the full MoE research landscape (1991–2025)
+- **30 pages** covering the full MoE research landscape (1991–2025)
 - **10 key papers** summarized with metadata, contributions, and cross-references
-- **7 production models** profiled with architecture details and comparisons
+- **9 production model families** profiled with architecture details and comparisons
 - **35+ years** of research history documented

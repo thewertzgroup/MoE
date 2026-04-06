@@ -54,3 +54,16 @@ Append-only chronological record of all wiki operations.
 **Sources**: Built from comprehensive survey of MoE research literature spanning 1991-2025, including foundational papers, scaling studies, production model reports, and community resources.
 
 **Cross-references**: All pages interlinked via relative markdown links. Each page includes a "See Also" section with related pages.
+
+---
+
+## 2026-04-06 — Added Llama 4 and Qwen MoE Pages
+
+**Operation**: Ingest additional models from research survey
+
+**Pages created** (2):
+- `models/llama4.md` — Meta's Llama 4 Scout (109B), Maverick (400B), Behemoth; natively multimodal MoE with extreme context lengths
+- `models/qwen-moe.md` — Alibaba's Qwen1.5-MoE-A2.7B and Qwen3-235B-A22B
+
+**Pages updated**:
+- `index.md` — Added Llama 4 and Qwen MoE to models table
